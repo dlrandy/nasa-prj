@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+specifiers:
+  csv-parse: ^5.0.4
+
+dependencies:
+  csv-parse: registry.npmmirror.com/csv-parse/5.0.4
+
+packages:
+
+  registry.npmmirror.com/csv-parse/5.0.4:
+    resolution: {integrity: sha512-5AIdl8l6n3iYQYxan5djB5eKDa+vBnhfWZtRpJTcrETWfVLYN0WSj3L9RwvgYt+psoO77juUr8TG8qpfGZifVQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/csv-parse/-/csv-parse-5.0.4.tgz}
+    name: csv-parse
+    version: 5.0.4
+    dev: false

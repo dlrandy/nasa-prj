@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dlrandy/nasa-prj/issues"
   },
-  "homepage": "https://github.com/dlrandy/nasa-prj#readme"
+  "homepage": "https://github.com/dlrandy/nasa-prj#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
 }

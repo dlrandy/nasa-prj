@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/dlrandy/nasa-prj/issues"
   },
-  "homepage": "https://github.com/dlrandy/nasa-prj#readme"
+  "homepage": "https://github.com/dlrandy/nasa-prj#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.16"
+  }
 }

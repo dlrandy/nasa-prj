@@ -8,3 +8,4 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-
 https://auro.technology/blog/configuring-multiple-subdomains-on-an-nginx-webserver
 
 
+mongod --dbpath ~/data/db 

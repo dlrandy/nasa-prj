@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/dlrandy/nasa-prj/issues"
   },
-  "homepage": "https://github.com/dlrandy/nasa-prj#readme"
+  "homepage": "https://github.com/dlrandy/nasa-prj#readme",
+  "dependencies": {
+    "@graphql-tools/load-files": "^6.5.3",
+    "@graphql-tools/schema": "^8.3.10",
+    "apollo-server-express": "^3.6.7",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.4.0"
+  }
 }
